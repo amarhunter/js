@@ -2,7 +2,7 @@ var attempt = 3;
 function validate() {
 	var username = document.getElementById("username").value;
 	var password = document.getElementById("password").value;
-	if(username == Formget && password == "forget#123")
+	if(username == "Formget" && password == "forget#123")
 	{
 		alert("Login successfully");
 		window.location = "success.html";
